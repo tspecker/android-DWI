@@ -1,7 +1,10 @@
 
 <H1><p align="center">DWI</p></H1>
-DWI
-===================================
+
+## Introduction
+<b>DWI</b> est une application permettant à tout utilisateur, d'estimer rapidement sa consommation d'alcool.
+
+Car qui n'a jamais pris le verre de trop ? Celui qui te fait dépasser tes limites (sociales ...).
 
 Lorem Elsass ipsum chambon leo kuglopf tellus Pellentesque schneck wie blottkopf, hoplageiss et Yo dû. Spätzle tristique nullam merci vielmols leverwurscht jetz gehts los ornare risus, ch'ai dignissim hopla picon bière Oberschaeffolsheim turpis rhoncus Pfourtz ! Salu bissame hopla yeuh.
 
